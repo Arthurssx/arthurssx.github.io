@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">AudioVault — capa conceitual</title>
+  <desc id="desc">Capa turquesa com tipografia editorial em creme, um vinil azul escuro recortado e uma onda sonora sutil no selo dourado central.</desc>
+  <defs>
+    <clipPath id="record"><circle cx="852" cy="443" r="226"/></clipPath>
+  </defs>
+  <rect width="1200" height="760" fill="#178582"/>
+  <g fill="#f1eee8" font-family="Arial, Helvetica, sans-serif">
+    <text x="74" y="91" font-size="16" font-weight="600" letter-spacing="2.1">JAVA / MÚSICAS &amp; PODCASTS</text>
+    <text x="68" y="238" font-size="134" font-weight="700" letter-spacing="-8">AudioVault</text>
+    <text x="78" y="297" font-size="19" letter-spacing=".6">Um universo em cada play.</text>
+    <text x="74" y="689" font-size="14" letter-spacing="2">ESTUDO DE DESENVOLVIMENTO</text>
+    <text x="1126" y="689" text-anchor="end" font-size="14" letter-spacing="2">02 — ÁUDIO</text>
+  </g>
+  <path d="M74 642H594" stroke="#0A1828" stroke-opacity=".3"/>
+  <g fill="none" stroke="#70bab3" stroke-width="2">
+    <path d="M77 448C114 448 114 516 151 516S188 381 225 381S262 583 299 583S336 348 373 348S410 584 447 584S484 382 521 382S558 516 595 516S632 448 669 448"/>
+    <path d="M77 464C114 464 114 500 151 500S188 412 225 412S262 550 299 550S336 380 373 380S410 552 447 552S484 413 521 413S558 500 595 500S632 464 669 464" stroke-opacity=".55"/>
+  </g>
+  <circle cx="852" cy="443" r="226" fill="#0A1828"/>
+  <g clip-path="url(#record)" fill="none" stroke="#70bab3" stroke-width="1">
+    <circle cx="852" cy="443" r="211"/><circle cx="852" cy="443" r="200"/>
+    <circle cx="852" cy="443" r="189"/><circle cx="852" cy="443" r="178"/>
+    <circle cx="852" cy="443" r="167"/><circle cx="852" cy="443" r="156"/>
+    <circle cx="852" cy="443" r="145"/><circle cx="852" cy="443" r="134"/>
+    <circle cx="852" cy="443" r="123"/><circle cx="852" cy="443" r="112"/>
+  </g>
+  <path d="M852 443L1005 264A226 226 0 0 1 1078 443Z" fill="#178582"/>
+  <path d="M852 443L1005 264" stroke="#178582" stroke-width="5"/>
+  <circle cx="852" cy="443" r="90" fill="#BFA181"/>
+  <circle cx="852" cy="443" r="69" fill="none" stroke="#0A1828" stroke-opacity=".2"/>
+  <path d="M792 443H806L814 428L823 456L833 418L843 466L853 426L863 453L873 435L883 443H912" fill="none" stroke="#0A1828" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="852" cy="443" r="5" fill="#178582"/>
+  <circle cx="852" cy="443" r="3" fill="#0A1828"/>
+  <g transform="translate(1108 85)" fill="#0A1828">
+    <rect x="-14" y="-7" width="3" height="14" rx="1.5"/><rect x="-7" y="-13" width="3" height="26" rx="1.5"/>
+    <rect x="0" y="-18" width="3" height="36" rx="1.5"/><rect x="7" y="-10" width="3" height="20" rx="1.5"/>
+    <rect x="14" y="-5" width="3" height="10" rx="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Calculadora — capa conceitual</title>
+  <desc id="desc">Composição dourada com o título Calcular. Simplificar. em azul escuro e quatro blocos geométricos em azul escuro, creme e turquesa com os símbolos de adição, subtração, multiplicação e divisão.</desc>
+  <rect width="1200" height="760" fill="#BFA181"/>
+  <g fill="#0A1828" font-family="Arial, Helvetica, sans-serif">
+    <text x="74" y="91" font-size="16" font-weight="600" letter-spacing="2.1">HTML / CSS / JAVASCRIPT</text>
+    <text x="69" y="301" font-size="103" font-weight="700" letter-spacing="-6">Calcular.</text>
+    <text x="69" y="403" font-size="103" font-weight="700" letter-spacing="-6">Simplificar.</text>
+    <text x="78" y="465" font-size="19" letter-spacing=".6">Lógica que encontra seu resultado.</text>
+    <text x="74" y="689" font-size="14" letter-spacing="2">ESTUDO DE DESENVOLVIMENTO</text>
+    <text x="1126" y="689" text-anchor="end" font-size="14" letter-spacing="2">03 — INTERAÇÃO</text>
+  </g>
+  <path d="M74 642H1126" stroke="#0A1828" stroke-opacity=".3"/>
+  <circle cx="916" cy="390" r="203" fill="none" stroke="#0A1828" stroke-width="1.5" stroke-opacity=".33"/>
+  <g transform="translate(809 284) rotate(-16)">
+    <rect x="-93" y="-93" width="186" height="186" fill="#0A1828"/>
+    <path d="M-44 0H44M0-44V44" fill="none" stroke="#f1eee8" stroke-width="16"/>
+  </g>
+  <g transform="translate(1024 319) rotate(12)">
+    <rect x="-87" y="-87" width="174" height="174" fill="#f1eee8"/>
+    <path d="M-42 0H42" fill="none" stroke="#0A1828" stroke-width="16"/>
+  </g>
+  <g transform="translate(793 501) rotate(9)">
+    <rect x="-87" y="-87" width="174" height="174" fill="#f1eee8"/>
+    <path d="M-31-31L31 31M31-31L-31 31" fill="none" stroke="#0A1828" stroke-width="16"/>
+  </g>
+  <g transform="translate(1013 518) rotate(-13)">
+    <rect x="-93" y="-93" width="186" height="186" fill="#178582"/>
+    <path d="M-43 0H43" fill="none" stroke="#f1eee8" stroke-width="15"/>
+    <circle cy="-38" r="10" fill="#f1eee8"/>
+    <circle cy="38" r="10" fill="#f1eee8"/>
+  </g>
+  <g fill="#0A1828"><circle cx="1095" cy="85" r="5"/><circle cx="1115" cy="85" r="5"/></g>
+</svg>

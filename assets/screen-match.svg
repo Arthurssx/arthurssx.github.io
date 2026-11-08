@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Screen Match — capa conceitual</title>
+  <desc id="desc">Composição editorial azul escura com o título Screen Match em creme e três fotogramas geométricos sobrepostos em dourado e creme.</desc>
+  <defs>
+    <pattern id="perforations" width="34" height="20" patternUnits="userSpaceOnUse"><rect x="8" y="5" width="15" height="10" rx="2" fill="#102a3c"/></pattern>
+  </defs>
+  <rect width="1200" height="760" fill="#102a3c"/>
+  <g fill="#f1eee8" font-family="Arial, Helvetica, sans-serif">
+    <text x="74" y="91" font-size="16" font-weight="600" letter-spacing="2.1">JAVA / ORIENTAÇÃO A OBJETOS</text>
+    <text x="74" y="291" font-size="119" font-weight="700" letter-spacing="-7">SCREEN</text>
+    <text x="74" y="402" font-size="119" font-weight="700" letter-spacing="-7">MATCH</text>
+    <text x="78" y="464" font-size="19" letter-spacing=".6" fill="#f1eee8">Histórias. Objetos. Conexões.</text>
+    <text x="74" y="689" font-size="14" letter-spacing="2">ESTUDO DE DESENVOLVIMENTO</text>
+    <text x="1126" y="689" text-anchor="end" font-size="14" letter-spacing="2">01 — CINEMA</text>
+  </g>
+  <path d="M74 642H1126" stroke="#f1eee8" stroke-opacity=".26"/>
+  <g transform="translate(682 190) rotate(-13 190 130)">
+    <rect width="360" height="248" rx="3" fill="#BFA181"/>
+    <rect x="20" y="33" width="320" height="180" fill="#102a3c"/>
+    <rect x="14" y="7" width="332" height="20" fill="url(#perforations)"/>
+    <rect x="14" y="220" width="332" height="20" fill="url(#perforations)"/>
+    <path d="M181 63L266 184H96Z" fill="#BFA181"/>
+  </g>
+  <g transform="translate(706 253) rotate(5 190 130)">
+    <rect width="370" height="251" rx="3" fill="#f1eee8"/>
+    <rect x="20" y="33" width="330" height="185" fill="#102a3c"/>
+    <rect x="14" y="7" width="342" height="20" fill="url(#perforations)"/>
+    <rect x="14" y="223" width="342" height="20" fill="url(#perforations)"/>
+    <circle cx="185" cy="125" r="65" fill="#f1eee8"/>
+    <circle cx="185" cy="125" r="32" fill="#102a3c"/>
+  </g>
+  <g transform="translate(665 346) rotate(-5 190 130)">
+    <rect width="410" height="252" rx="3" fill="#BFA181"/>
+    <rect x="20" y="33" width="370" height="185" fill="#102a3c"/>
+    <rect x="14" y="7" width="382" height="20" fill="url(#perforations)"/>
+    <rect x="14" y="224" width="382" height="20" fill="url(#perforations)"/>
+    <path d="M131 73L250 125.5L131 178Z" fill="#BFA181"/>
+    <path d="M278 73V178M295 73V178" stroke="#f1eee8" stroke-width="10"/>
+  </g>
+  <circle cx="1108" cy="85" r="16" fill="none" stroke="#BFA181" stroke-width="2"/>
+  <circle cx="1108" cy="85" r="4" fill="#BFA181"/>
+</svg>
